@@ -7,9 +7,9 @@ Hi there 👋
 - ⚡ Fun fact: I have been a massage therapist for 5 years!
 
 Tech Stack:
-HTML/CSS
-Git
-GitHub
-VSCode
-Figma
+HTML/CSS,
+Git,
+GitHub,
+VSCode,
+Figma,
 JavaScript
