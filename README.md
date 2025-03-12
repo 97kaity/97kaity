@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on Sprint 5 at TripleTen.
+- 🔭 I’m currently working on Sprint 6 at TripleTen.
 - 🌱 I’m currently learning JavaScript.
 - 🤔 I’m looking for help with getting a software engineering job.
 - 💬 Ask me about my story of changing career paths.
