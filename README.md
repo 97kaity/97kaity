@@ -13,4 +13,6 @@ GitHub,
 VSCode,
 Figma,
 JavaScript, 
-OOP
+OOP,
+Vite,
+React
